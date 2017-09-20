@@ -1,6 +1,7 @@
-# Plane
 
-Set of clean and minimal visual improvements for Linux.
+<p align="center"><img src="plane-logo.png"/></p>
+<p align="center">Set of clean and minimal visual improvements for Linux.</p>
+
 
 
 ## Gnome
