@@ -1,5 +1,5 @@
 
-<p align="center"><img src="logo.svg"/></p>
+<p align="center"><img src="assets/logo.svg"/></p>
 <p align="center">Set of clean and minimal visual improvements for Linux.</p>
 
 
@@ -19,3 +19,4 @@
 
 
 ## Colors
+<p align="left"><img src="assets/colors.png"/></p>
