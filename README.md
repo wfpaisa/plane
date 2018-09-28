@@ -19,6 +19,8 @@
 - Chrome: [Plane dark](https://github.com/wfpaisa/plane/tree/master/assets/chrome/)
 
 ## Colors
+Download gpl color plalette `./Color palette.gpl`
+
 <p align="left"><img src="assets/colors.png"/></p>
 
 
