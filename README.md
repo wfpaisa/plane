@@ -17,6 +17,9 @@
 - Tilix: [Plane dark](https://github.com/wfpaisa/plane-terminal)
 - Firefox: [Plane dark](https://addons.mozilla.org/en-US/firefox/addon/plane-dark/)
 - Chrome: [Plane dark](https://github.com/wfpaisa/plane/tree/master/assets/chrome/)
+- Atom: 
+  - [Plane dark Atom Syntax](https://github.com/wfpaisa/plane-atom-syntax)
+  - [Plane dark Atom UI](https://github.com/wfpaisa/plane-atom-ui)
 
 ## Colors
 Download gpl color plalette `./Color palette.gpl`
