@@ -20,6 +20,7 @@
 - Atom: 
   - [Plane dark Atom Syntax](https://github.com/wfpaisa/plane-atom-syntax)
   - [Plane dark Atom UI](https://github.com/wfpaisa/plane-atom-ui)
+- Typora: [Plane dark](https://github.com/wfpaisa/plane-typora)
 
 ## Colors
 Download gpl color plalette `./Color palette.gpl`
